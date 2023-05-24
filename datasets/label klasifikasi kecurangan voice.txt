@@ -1,0 +1,17 @@
+label class voice detection :
+	0 : a
+	1 : b
+	2 : c
+	3 : d
+	4 : e
+	5 : 1 --> 1 dong  . yang dititikin mo minta 
+	6 : 2 --> 2 dong  . tolong rekamin, per label
+	7 : 3 --> 3 dong  . 10 biji yaa. rekaman biasa 
+	8 : 4 --> 4 dong  . ajj pke audacity.ntar es 
+	9 : 5 --> 5 dong  . nya aku tf lewat dana. tq<3
+	10 : pstt
+	11 : ehmm
+	12 : uhuk uhuk
+	13 : jawaban dong .ntar simpennya di gmail adriatisnawatiaprilia20@student.polindra.ac.id (Captain060402)
+
+double fonem/2 suku kata

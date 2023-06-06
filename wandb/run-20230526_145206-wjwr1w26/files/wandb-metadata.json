@@ -1,0 +1,41 @@
+{
+    "os": "Windows-10-10.0.19045-SP0",
+    "python": "3.9.7",
+    "heartbeatAt": "2023-05-26T07:52:16.088258",
+    "startedAt": "2023-05-26T07:52:06.261334",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "Untitled Folder/Sample-TA/Untitled1.ipynb",
+    "root": "C:/Users/ASUS/Untitled Folder/Sample-TA",
+    "git": {
+        "remote": "https://github.com/Adria-Tisnawati-Aprilia/Sample-TA.git",
+        "commit": "bc6aa17a44fa22b11236497ad276e10856e353f0"
+    },
+    "email": "adriatisnawatiaprilia@gmail.com",
+    "host": "Giggleeess-06",
+    "username": "ASUS",
+    "executable": "C:\\Users\\ASUS\\anaconda3\\python.exe",
+    "cpu_count": 2,
+    "cpu_count_logical": 4,
+    "cpu_freq": {
+        "current": 1402.0,
+        "min": 0.0,
+        "max": 2304.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1402.0,
+            "min": 0.0,
+            "max": 2304.0
+        }
+    ],
+    "disk": {
+        "total": 116.55761337280273,
+        "used": 110.2869644165039
+    },
+    "memory": {
+        "total": 11.884994506835938
+    }
+}
